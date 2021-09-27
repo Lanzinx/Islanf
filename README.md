@@ -1,16 +1,15 @@
-### Hi there 👋
+Olá, sou o Islan! 👋
 
-<!--
-**Islanf/Islanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Grande entusiasta do entendimento de como as coisas funcionam e entrando 1000% no universo da tecnologia, desenvolvimento de softwares e suas linguagens.
 
-Here are some ideas to get you started:
+🤓💻 No momento estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Analise e desenvolvimento de sistemas (Graduação tecnológica).
+ - POO com JAVA.
+ <div>
+<div align="center">
+  <a href="https://github.com/islanf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=islanf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islanf&layout=compact&langs_count=7&theme=dracula"/>
+ 
+    
