@@ -1,6 +1,6 @@
 Olá, sou o Islan! 👋
 
-Grande entusiasta do entendimento de como as coisas funcionam e entrando 1000% no universo da tecnologia, desenvolvimento de softwares e suas linguagens.
+Entusiasta do entendimento de como as coisas funcionam e entrando 1000% no universo da tecnologia, desenvolvimento de softwares e suas linguagens.
 
 🤓💻 No momento estudando:
 
