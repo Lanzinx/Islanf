@@ -5,7 +5,8 @@ Entusiasta do entendimento de como as coisas funcionam e entrando 1000% no unive
 🤓💻 No momento estudando:
 
  - Analise e desenvolvimento de sistemas (Graduação tecnológica).
- - POO com JAVA.
+ - POO com JAVA
+ - JAVA.
  <div>
 <div align="center">
   <a href="https://github.com/islanf">
