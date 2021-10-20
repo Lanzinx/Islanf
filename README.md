@@ -4,9 +4,9 @@ Entusiasta do entendimento de como as coisas funcionam e entrando 1000% no unive
 
 🤓💻 No momento estudando:
 
- - Analise e desenvolvimento de sistemas (Graduação tecnológica).
- - POO com JAVA
- - Formação JAVA alura
+ - Analise e desenvolvimento de sistemas;
+ - POO com JAVA;
+ - Formação JAVA alura;
 
 
  <div>
