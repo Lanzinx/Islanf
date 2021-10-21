@@ -8,7 +8,7 @@ Entusiasta do entendimento de como as coisas funcionam e entrando 1000% no unive
  - POO com JAVA;
  - Formação JAVA alura;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
 
  <div>
 <div align="center">
